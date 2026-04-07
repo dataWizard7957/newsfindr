@@ -1,0 +1,6 @@
+langchain
+langchain-groq
+langchain_huggingface
+langchainhub
+duckduckgo-search
+pandas
