@@ -91,10 +91,9 @@ python newsfindr.py
 ### Example
 - Input:
 User email and query
+
 - Output:
-List of relevant news articles
-AI-generated summary
-Structured response
+- List of relevant news articles, AI-generated summary
 
 ```bash
 {
