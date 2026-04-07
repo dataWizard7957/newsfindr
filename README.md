@@ -89,10 +89,9 @@ set GROQ_API_KEY=your_api_key_here
 python newsfindr.py
 ```
 ### Example
-- Input
-Email: test@example.com
-Query: recent political and startup news
-- Output
+- Input:
+User email and query
+- Output:
 List of relevant news articles
 AI-generated summary
 Structured response
